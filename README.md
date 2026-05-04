@@ -40,7 +40,7 @@ npm install ws
 ```
 ## Usage
 ```gitclone
-git clone
+git clone https://github.com/jailkrak/SOCKET.git
 cd SOCKET
 ```
 ***Basic Commands***
