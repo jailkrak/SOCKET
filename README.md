@@ -1,4 +1,4 @@
-#  SOCKET - Advanced Security Vulnerability Scanner v1.0
+#  SOCKET - Advanced Security Vulnerability Scanner v3.0
 
 [![Java](https://img.shields.io/badge/Java-8%2B-blue.svg)](https://www.java.com/)
 [![Security](https://img.shields.io/badge/Security-Testing-red.svg)](https://owasp.org/)
